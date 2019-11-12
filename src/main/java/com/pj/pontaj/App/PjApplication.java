@@ -8,6 +8,8 @@ public class PjApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PjApplication.class, args);
+
+		System.out.println("ok");
 	}
 
 }
